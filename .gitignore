@@ -19,6 +19,7 @@ lib64/
 parts/
 sdist/
 var/
+bat/
 wheels/
 pip-wheel-metadata/
 share/python-wheels/
@@ -121,3 +122,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+/push.bat
+/pull.bat
